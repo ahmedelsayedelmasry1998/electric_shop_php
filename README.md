@@ -1,0 +1,1 @@
+The site consists of two main pages that are navigated through paginations. There is a contact page that contains Google Map in addition to signin and signup, in addition to the carts page that contains the user’s cart and through which checkout can be done and the cart can be deleted.
